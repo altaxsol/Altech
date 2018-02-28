@@ -1,5 +1,3 @@
-# Altech
-Altech Services
 <!DOCTYPE html>
 <html>
 <body>
